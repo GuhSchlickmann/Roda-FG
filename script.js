@@ -10,7 +10,7 @@ const CONFIG = {
 
     // URL da sua página de avaliação do Google (4-5 estrelas)
     // URL da sua página de avaliação do Google (4-5 estrelas)
-    googleReviewURL: 'https://www.google.com/search?sca_esv=b7364511f8ed4c8d&sxsrf=ANbL-n7EHwBuT2b-nib5-bWl_AbV95HxRQ:1774439688767&si=AL3DRZEsmMGCryMMFSHJ3StBhOdZ2-6yYkXd_doETEE1OR-qOXBXY_ldE7Dnd3m4tQPIbe6wvnK6CuJmRhE8J9sGK_VRjvKbOaCJYfntYAqIiPc9sGimg5wtEldcQn24knN3RaW_KNK05Auyas7RpFxQKfhIpI10_GK_arI3b0tO6SNSAQTuYVJOIytc80JjgoK5jsIYRVCh&q=Roda+Gigante+de+Balne%C3%A1rio+Cambori%C3%BA+-+Roda+FG+Coment%C3%A1rios&sa=X&ved=2ahUKEwii5sv6_rqTAxXToJUCHSCpPeIQ0bkNegQINRAH&biw=1920&bih=945&dpr=1#',
+    googleReviewURL: 'https://www.google.com/search?sca_esv=b7364511f8ed4c8d&sxsrf=ANbL-n7EHwBuT2b-nib5-bWl_AbV95HxRQ:1774439688767&si=AL3DRZEsmMGCryMMFSHJ3StBhOdZ2-6yYkXd_doETEE1OR-qOXBXY_ldE7Dnd3m4tQPIbe6wvnK6CuJmRhE8J9sGK_VRjvKbOaCJYfntYAqIiPc9sGimg5wtEldcQn24knN3RaW_KNK05Auyas7RpFxQKfhIpI10_GK_arI3b0tO6SNSAQTuYVJOIytc80JjgoK5jsIYRVCh&q=Roda+Gigante+de+Balne%C3%A1rio+Cambori%C3%BA+-+Roda+FG+Coment%C3%A1rios&sa=X&ved=2ahUKEwii5sv6_rqTAxXToJUCHSCpPeIQ0bkNegQINRAH&biw=1920&bih=945&dpr=1#lrd=0x94d8b5b5463f668f:0x5e08b1a37c09d57a,3,,,,',
 
     // Textos personalizados para cada avaliação
     ratingTexts: {
